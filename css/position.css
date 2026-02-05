@@ -1,0 +1,17 @@
+h1{
+    margin-bottom: 90rem;
+}
+.sticky{
+    position: sticky;
+    top: 20px;
+    background-color: yellow;
+    padding: 10px;
+}
+.position{
+    position: fixed;
+    right: 2rem;
+    bottom: 2rem;
+    background-color: red;
+    color: white;
+padding: 10px;
+}
